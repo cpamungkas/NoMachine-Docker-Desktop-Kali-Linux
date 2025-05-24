@@ -23,12 +23,12 @@
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinekalixfce4 ; bash nomachinekalixfce4
+curl -sLkO https://s.id/kalixfce4 ; bash nomachinekalixfce4
 
  ```
 
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://github.com/kmille36/Docker-Kali-Desktop-NoMachine*
+*Main Repo: https://github.com/cpamungkas/NoMachine-Docker-Desktop-Kali-Linux*
 
 
