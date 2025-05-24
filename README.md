@@ -23,7 +23,7 @@
 
  ```console  
 
-curl -sLkO https://s.id/kalidockerdesktop ; bash nomachinekalixfce4
+curl -sLkO https://s.id/kalidockerdesktop ; bash kalidockerdesktop
 
  ```
 
